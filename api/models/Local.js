@@ -78,6 +78,7 @@ module.exports = {
       required: true
     }
   },
-  connection:"mongodb"
+  connection:"mongodb",
+  tableName:"local"
 };
 
